@@ -1,2 +1,2 @@
 # Data-Structure
-AVL tree, BST, heap sort and graph algorithms implemented in C++
+AVL tree, BST, heap sort and graph algorithms implemented in C
